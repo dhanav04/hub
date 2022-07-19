@@ -4,6 +4,7 @@ c = 98
 d  = 83
 n = (a*b)
 j = (c*d)
-print(n+j)
+r = (b*d)
+print(n+j+r)
 
 
